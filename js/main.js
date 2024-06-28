@@ -9,7 +9,9 @@ const btnReiniciar = document.querySelector(".js_button_reiniciar");
 function getRandomNumber(max) {
     console.log(max);
     return Math.ceil(Math.random() * max);
-  };
+  }; 
+
+
 
 //const getNumber = getRandomNumber(9);
 //console.log("prueba: " + getNumber);
